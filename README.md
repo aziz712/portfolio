@@ -1,6 +1,8 @@
 # Portfolio Personnel
 
-Bienvenue sur le dépôt de mon portfolio personnel. Ce projet est développé avec [Next.js](https://nextjs.org/), initialisé avec `create-next-app`.
+Bienvenue sur le dépôt de mon portfolio personnel. Ce projet est développé avec [Next.js](https://nextjs.org/), 
+
+initialisé avec `create-next-app`.
 
 ## Aperçu
 
